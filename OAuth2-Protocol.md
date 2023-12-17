@@ -32,4 +32,5 @@ Scope là một tham số được định nghĩa trong Authorization server dù
 
 * Client Identifier: chuỗi ký tự để định danh ứng dụng
 
-* Client Secret: chuỗi ký tự dùng để dịnh danh Client khi có yêu cầu truy cập
+* Client Secret: chuỗi ký tự dùng để dịnh danh Client khi có yêu cầu truy cập.
+
